@@ -6,7 +6,7 @@ const HomeScreen = async () => {
 
     return (
         <View style={styles.root}>
-            <Text>Home Screen</Text>
+            <Text>Home Screen Updates</Text>
         </View>
     )
 }
